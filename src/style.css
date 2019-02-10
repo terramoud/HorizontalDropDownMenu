@@ -1,0 +1,37 @@
+.wrapper {
+  display: flex;
+  flex-direction: column; }
+
+.banner {
+  border: 1px solid red;
+  height: 50px; }
+
+.banner1 {
+  margin-top: 20px;
+  border: 1px solid red;
+  height: 50px; }
+
+.banner2 {
+  margin-top: 20px;
+  border: 1px solid green;
+  height: 50px; }
+
+.banner3 {
+  margin-top: 20px;
+  border: 1px solid blue;
+  height: 50px; }
+
+.navigation_menu {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  height: 50px; }
+  .navigation_menu .menu0, .navigation_menu .menu1, .navigation_menu .menu2, .navigation_menu .menu3, .navigation_menu .menu4, .navigation_menu .menu5, .navigation_menu .menu6 {
+    width: 20%;
+    height: 50px;
+    background-color: blue;
+    opacity: 0.7;
+    border: 1px solid grey;
+    margin-bottom: 100px; }
+
+/*# sourceMappingURL=style_accordion.css.map */

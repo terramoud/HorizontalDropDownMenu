@@ -1,0 +1,27 @@
+{
+  "name": "drop-down-menu",
+  "version": "1.0.0",
+  "description": "Horizontal drop down menu written on jQuery",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/terramoud/jQuery-horizontal-drop-down-menu.git"
+  },
+  "author": "terramoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terramoud/jQuery-horizontal-drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/terramoud/jQuery-horizontal-drop-down-menu#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-rename": "^1.4.0"
+  }
+}
