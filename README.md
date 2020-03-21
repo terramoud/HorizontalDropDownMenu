@@ -1,4 +1,5 @@
 # jQueryHorizontalDropDownMenu
+https://terramoud.github.io/HorizontalDropDownMenu/public/
 
     jQuery("div").dropDownRiseUp(); // use method ".dropDownRiseUp()" for jQuery object
 
